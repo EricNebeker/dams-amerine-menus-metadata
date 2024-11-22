@@ -15,12 +15,6 @@
   ],
   "schema:about": [
     {
-      "@id": "http://id.loc.gov/authorities/names/n79065230"
-    },
-    {
-      "@id": "http://www.productontology.org/id/Wine_list"
-    },
-    {
       "@id": "http://id.worldcat.org/fast/1726982"
     },
     {
@@ -30,13 +24,7 @@
       "@id": "http://id.worldcat.org/fast/1175987"
     },
     {
-      "@id": "http://www.productontology.org/id/Maynard_Amerine"
-    },
-    {
       "@id": "http://id.worldcat.org/fast/1424061"
-    },
-    {
-      "@id": "http://www.productontology.org/id/Menu"
     }
   ],
   "schema:datePublished": {
